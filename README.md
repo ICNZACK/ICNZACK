@@ -1,5 +1,5 @@
 ![MasterHead]
-https://miro.medium.com/v2/resize:fit:3200/format:webp/1*i8-u-V8LTTbQwTeUwLI_BQ.gif
+https://madasamy.medium.com/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7
 <h1 align="center">Hi 👋, I'm ICNZACK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
